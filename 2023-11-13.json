@@ -1,0 +1,26 @@
+{
+  "name": "Harold Rodriguez",
+  "age": 34,
+  "address": {
+    "street": "Sipi Drive",
+    "city": "Zapusca",
+    "state": "LA",
+    "zip": "68051"
+  },
+  "contact": {
+    "phone": "(445) 541-5140",
+    "servicePhone": "800725225"
+  },
+  "birthday": "1996-05-24T07:20:35.427Z",
+  "ip": "40.15.217.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Masmoffa de sahpa erovicdo penopicag solap koik dur fogzosviv hi ewok vuaboh. Ehrit dok eksivi ga ig nuitun okgak rujluc noca vopor neckosupi juret. Uno soabuduf souvowi sibek tezuraw culbanu moliri ejzaw ba hidtodug hegoc pocaib moigi vegel alojetil asjikroh. Doowi epgucin ekavava ru ufna zaem ge rijapuf ogniga epuvi foiziefu uha ci caca canhu kojujcu. Lo ofetud jajuze rerapif ofcu tez jabees wijalu va loet tokar jal kah zihihe hoditac orjitrur.",
+    "bio": "Aheacerer igwe uvuzug ugaibto hinag kafipcu siguw jakaeh wi mewemez sogkot popanhet mo kapva rodil kuk. Ca kuiflez joiki uho du migpom is cuzguf zashid waulo jegnogipo une edu sub. Cu bol avkemej lubsem jiwa ves sula bunudiv fucu vizu hev rairizu. Zew evo vu barifa wig jusre cengul giz lapeslu ob ganu veok. Cu zag sapes ripfobami caf ja esunec ub likdoz em mazwob joron nahjubkor agapewa ap najtazrul. Ner hobsibu tehiiju guafuzuv zugmu gujogo voto iz taripuv hug lahha igbep midizoz cevec fisjom cinkoc be minoit. Atdeok he munehew ir nuk deva gecafvat mudurujo hobjaci wivehila sisezvap kon na segilpik."
+  },
+  "apiKey": "e746c20ca7d121e593906853b9949ab2394942d33d4056b56d44cb9b7c5a0e92",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
