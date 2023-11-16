@@ -1,0 +1,26 @@
+{
+  "name": "Maud Ball",
+  "age": 26,
+  "address": {
+    "street": "Seca Key",
+    "city": "Gupjekel",
+    "state": "MS",
+    "zip": "28107"
+  },
+  "contact": {
+    "phone": "(768) 801-2722",
+    "servicePhone": "800714825"
+  },
+  "birthday": "1989-07-21T04:03:07.156Z",
+  "ip": "180.39.82.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Jo sub ut maja zatawni nuslacifu dig vab aclo hazhu hevube lol vaesi libepjub dajhiw. Ifpihor ligmed bo jelakon wo hiskej lupemanu jitko zec veok ko ivug wop. Gec dowo sawof apu te ceso ezozadjap atfe cesnuse reli moc wi hi in. Towu wejpu adajih muwuc cicfeg zapsi sepal aha ulaawat ocvecom fepadul re icos fuluswu er meagasiw efpohos. Zo fud fu utpawta juk warica ete vinej ladiwa lat apu rej saeve ufagir zerav hacis.",
+    "bio": "Bugoro fah gudmipos jutrurej wem tiwigivi keodu sajazva oki rawum foba vecev juebwek se. Mubnaur di mesojiwa peton du gileuba fiwut kiizono moglupuk og pozzi becosi kacjam vusfucuk pojsojpu. Pogna un wi segnuzu vehji gifsahem ufirucon ovdehifu befbi saba ubu an cohut mike fud jupu."
+  },
+  "apiKey": "f0f5bee416cab23bd240af0687255574bb0c3b9d79a7875ebfc1603787493811",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
