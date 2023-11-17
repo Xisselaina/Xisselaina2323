@@ -1,0 +1,26 @@
+{
+  "name": "Susan Saunders",
+  "age": 44,
+  "address": {
+    "street": "Poweho View",
+    "city": "Fovbasov",
+    "state": "ND",
+    "zip": "34826"
+  },
+  "contact": {
+    "phone": "(852) 703-7210",
+    "servicePhone": "800596378"
+  },
+  "birthday": "1997-02-08T10:46:04.168Z",
+  "ip": "253.50.147.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Am lak guheopu edeto nufpula nan bafi la semaponi bo nitbi buwu fiwojij. Is davlizmu fibo fatbikduk zadej ti jejohar vovzez pavofedo kijved vazdufac li fadceb da ji holajcow zatefa. Bauf ob tupbitsi su av jewesu jaromi wafo foko edtu or ewgatu meambun apnek arekik nozdasza ca.",
+    "bio": "Lelbom coanrat pawa zapaf gidbib zira tedne wudes fa pifbej zo fada un wase sazovi conlagiw ut. Gobrin owu zacec pasicjab bufosbod jaufufij tow wazgov ma hu za vek. Vupcis za upoumije uhhah zihoofi pez atpuoni ve daibdok ike ojut onjeip ge vucem wez jehijsiz."
+  },
+  "apiKey": "3f25052ab644dc16a46eb7610b5dfca4d401c0a51594dcb63905450333295fec",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
