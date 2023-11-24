@@ -1,0 +1,26 @@
+{
+  "name": "Donald Wood",
+  "age": 46,
+  "address": {
+    "street": "Begoz Place",
+    "city": "Naflevum",
+    "state": "NY",
+    "zip": "82418"
+  },
+  "contact": {
+    "phone": "(763) 675-2769",
+    "servicePhone": "800824495"
+  },
+  "birthday": "1963-08-27T19:42:18.009Z",
+  "ip": "15.63.225.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Rudembij ando eg eto sihbe gobworem kov ucootihan higewo livvu katorjur bonko fucirga dotoma si ro. Vajlav celce mecuwa sukokde irecalvol hifmej ba raed pamebi luvkitih asi ehasowpel ponuh tapezo jupjeh si ihica piad. Ufikab ziv zejabo mihah sapima pucasfet mubupgo siuf wekture decig uso nivdizze bu oha wiwezaci.",
+    "bio": "Neiw ji hub pus mimrifuz do origugel lodcugmow endi dofar zaghu razzaze arjov ja pemzove. Gocel pirge eveuni petoh dorsar ravlol wapwod fibefpap me gezafju animemac okwag. Dozpocin goccu sel hewwa hirzak mov lagasco lanu suje bivu masgoznes fope rereda jimive piv geledo. Wenliflo unebac civu focbuj vidowodi vecuv let bepemfoz bounkil se ibugub la duv togkapcin. Re vej aj pusicjo wud joga voccotguj li fasedha foteldem tu te jotdijtuk emebeg voja. De odu upoza gotsu oztatvo hucegi um cazabof ja cippulek ji revopwe jokalo jepguzo pep touv wilnibev nej."
+  },
+  "apiKey": "2b86870b32d009d89ecfe1215175bba6acbf90662c2ec2a2761d4b75a7873bb5",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
