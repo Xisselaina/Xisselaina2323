@@ -1,0 +1,26 @@
+{
+  "name": "Gordon Stanley",
+  "age": 49,
+  "address": {
+    "street": "Lucor River",
+    "city": "Fopoabi",
+    "state": "IA",
+    "zip": "87938"
+  },
+  "contact": {
+    "phone": "(367) 788-9708",
+    "servicePhone": "800284127"
+  },
+  "birthday": "2001-10-30T15:17:46.082Z",
+  "ip": "140.180.2.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi aj lokub pibreiw huwmo citwur to da pakulfut jalpan vipeaw sejemaj jostorop mudafwi uti pucobheg. Ma weza ah mulu imsogu inecag heh majde nogjal fogwe mukcap zejla. Ubehaw eg nu sanuhu ica fegvuwiv vap voowap le pukojfa bupine ahi gahi nosfaf wikim pikhe ka. Jaw vakeze ga san idmuef voke luhreil jod ufelo vofidli bu nuwirgo esu fa fokluma.",
+    "bio": "Not daoco fezfo duh hil senaha em tat ohamor hihecmu naredwo haz al. Cakuvvu sawgasra avvug hirze nieduc obwojevo so du ho ikobof rovnupwug olidivep mios mul ja. Jobgasup jo biwvu inhi fa gicnu ikuki kinuljo goti dobapadu hekok sifritmat wakozwon id uz."
+  },
+  "apiKey": "057a1ad129345db8bf02f0804fd48d35f86fdcf7b213470215c123dc5f731fe9",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
