@@ -1,0 +1,26 @@
+{
+  "name": "Dean Love",
+  "age": 57,
+  "address": {
+    "street": "Keuve Center",
+    "city": "Codpeggu",
+    "state": "NJ",
+    "zip": "66264"
+  },
+  "contact": {
+    "phone": "(323) 636-4509",
+    "servicePhone": "800146937"
+  },
+  "birthday": "1973-11-24T10:51:37.673Z",
+  "ip": "161.53.18.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Mefne ogo geme agiruz ogo dazo nuseh lohgim uwgohle paw wael govola. Icijki fouru titevo fehlipu vilcejdu fi esdaz epajevmuv zaah ahfabud janrad wohaw wowarad. Ag ose cubo rat tig fiv cig de ge hipkaev lecizki dehauwa jah egitulum pivmec zirkidah akrof.",
+    "bio": "Ve na boprat fe mule toftidfe dilucu icte ognuki caajoji haj hug ko guttofel usedola cedessiv hug. Fen esfim ujle ve nak wo vum li humo afati obuto caginro ondacus ro kukkul tut. Ducime ci hulsingob bazupulu furipvo ev juf gono nepem imgogtud ubcil dackuvo oziwov ut safepo. Zurbedis liwcela kobte etezel suhijki nawbot pofir jahemceh lu deafu gidwod horhikvu akojo ulabagke na uti veguh."
+  },
+  "apiKey": "2475e979eb96d5c080f937cf9002ae46c3ab4e7caa88609dc2da6b9d46e9430d",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
