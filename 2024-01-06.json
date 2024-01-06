@@ -1,0 +1,26 @@
+{
+  "name": "Seth Wise",
+  "age": 28,
+  "address": {
+    "street": "Wukdo Court",
+    "city": "Onaejiela",
+    "state": "TN",
+    "zip": "62649"
+  },
+  "contact": {
+    "phone": "(829) 551-7021",
+    "servicePhone": "800467662"
+  },
+  "birthday": "1964-06-03T07:10:05.929Z",
+  "ip": "62.189.233.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Kinih su du ilapehpuc hin ramo gejtavli roze wi taj am nabuc ahu ra tutazbe ducwochi ofu. Wujof wo jemodfe vehaabo al viscabam zerov nidzuah no dohegevi deviijo cin jo god. Vu li hulruf rozob kop bigazkol fum usu ze od looje hoebapih.",
+    "bio": "Aw jakofi sawtok sekkag mel wuf lo nedgoibu zel muj lav jecnofef jujeza sufbicwi ufo viij si. Tah nas onu korvolsa jutik ih nafva ta na odcod avohos ejneaj ho. Evkittag ro fi ge ceh map netbep zew izuuvizu ni akozow wak bubuz. Faarfo barwefo he pad sepvejku pa ukewujmu sagogu regkoze ko huh vumod kiaz buf imni vajo."
+  },
+  "apiKey": "0fbe945ac8fbd6fabfdc47652edadb60bfe415d170e8910f7e7b30eb6a06118d",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
