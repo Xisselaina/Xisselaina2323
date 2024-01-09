@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Salazar",
+  "age": 56,
+  "address": {
+    "street": "Inged Circle",
+    "city": "Enzebip",
+    "state": "AL",
+    "zip": "21531"
+  },
+  "contact": {
+    "phone": "(600) 234-3447",
+    "servicePhone": "800273425"
+  },
+  "birthday": "1967-11-18T00:55:07.877Z",
+  "ip": "166.236.114.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Tavtogej vu luisaib difal sikava bebi vobnetben punos sonuado pi fifget git vohgip. Lohhi ophaj ciozfu sivve ohopizeg petde tobe ijoomuhe tapu pofwis nolusuf bom mievefe. Jilka vusuh iru rarkil dige hazid woasfo zake powiru mon huzmuw napku kihvigci gofjotez egupaji la ucru hibic.",
+    "bio": "Gole pejgin giju gafzufa min iho roko suzdod esgiut roes sogzed uchoj ede. Watig lota ut bur we gomok emiro cafogni cutnaw jemat ul pigokro weba. Cemvahvo lawanu koerigu ri buan eraos docgi hide la ej pu owigavam wuvuvi gotu. Riafzov hiwwe hu duh mi jaebu ada fu pafiija no palfuv nokiweras."
+  },
+  "apiKey": "d7ec50c3788b030b0c692e78d65e5f362df9efd70c66a63e422153cec9fca2ab",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
