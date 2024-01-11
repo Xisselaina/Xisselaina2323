@@ -1,0 +1,26 @@
+{
+  "name": "Rebecca Nunez",
+  "age": 48,
+  "address": {
+    "street": "Avod Avenue",
+    "city": "Ogeveap",
+    "state": "TN",
+    "zip": "02275"
+  },
+  "contact": {
+    "phone": "(222) 671-8943",
+    "servicePhone": "800162548"
+  },
+  "birthday": "1962-08-19T01:39:35.519Z",
+  "ip": "101.130.228.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Te fe eti onilamo detrolaf giz etapabev mocej niku um wemujowet nemez dobebvuj ocaro biskerca ato. Zepke ci amisev vikunfed wanbisuh gakwok rehuf mozitmeh oter cipmo dojzaevu gu. Femu upipi jona cecicis dace intakfa ofjez dem furnazpap kedham lanbu urebuw uhapema devego.",
+    "bio": "Hejohiw ilelesuhe vecmapkul beslenkaf ho bovebipa jobi ovo ligesum domofo mi vaz idohipzi pila. Ruce da beneva kihoge jijo julzunis pajwicuwi egukavah ijazace lolmorru ihirig ug ap. Mufunpu ra vinujdo vuvvonac hat hefmev nireuta diho pav uhedizlez evhujon puoho enlondor roumu."
+  },
+  "apiKey": "c435a6a2796d53c46a397e1a136cdc992bacbf9ef918cc81aa49c44b7c1c7690",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
