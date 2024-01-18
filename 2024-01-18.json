@@ -1,0 +1,26 @@
+{
+  "name": "Sadie Lambert",
+  "age": 48,
+  "address": {
+    "street": "Ninof Loop",
+    "city": "Retanur",
+    "state": "MI",
+    "zip": "40263"
+  },
+  "contact": {
+    "phone": "(782) 921-1374",
+    "servicePhone": "800331822"
+  },
+  "birthday": "1964-04-15T21:55:25.259Z",
+  "ip": "77.219.212.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Wibubto sefoofu nito wu wahazucih gofuw bo hibez kawnasuw muzukel nam vibud kicugec jaw. Oh ekunas nulesepi kokumag kuv miwwama lopado zambo ved kahdutjo ero zi caf iwwew ulo ta dek. Feffo ju bif lulo ralen naf mutni jerem pin taflevi wunawkag azbo. Naijoohe az te vucu dactemmis fupuc sewme pizden ti tagjovgar peikus bes lag. Itkamnig oshegujo vu culjo refe botba gewuro mulu tiofrug culrozbud fij burpoc. Zosid cacibde bokdajim noru ut gunog hispuh itu li mu viw tudmuhviw wi gekojauv duut imiiv rikwe fosuin.",
+    "bio": "Rotha log tokesun azewivil fil huludud linozbu luvvuj to aposoz uklad bip avufaol jetrop fuve rip. Jazusun amzej ifewi hob niwjel daswoh rilidov hih jet fanji puk dog rocepe rek losracja voh jiv. Wiwehtat sizfitci cawut jotosuz agfadhar wehfajfa sulbozeb ju uboreti atewut kevwicuv ov bicew tomacaz avova."
+  },
+  "apiKey": "b33045e91e36e283d0d2f162d6033e5a2994870e8ca82fd1b2431b1d5e76891c",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
