@@ -1,0 +1,26 @@
+{
+  "name": "Shane Sherman",
+  "age": 61,
+  "address": {
+    "street": "Ehegac Point",
+    "city": "Geezdur",
+    "state": "MT",
+    "zip": "42621"
+  },
+  "contact": {
+    "phone": "(859) 224-6021",
+    "servicePhone": "800838578"
+  },
+  "birthday": "1972-02-03T06:43:21.378Z",
+  "ip": "242.28.85.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Ratur nidrullen zan ok vuz lamofod moul iwu zorfo hiffu jorijid tobni. Mif sa soco ti kuhranjij nisvobzev fup nemijidow bocvuf fu johawosi mitekku. Ido ved hicret vusonu jekakivaf uha januzre ved hostahe jik ko cogfu kinpoj gidozmi. Ikoene gacjajtu wobitid lenotsit bo owogifa vo etpu womgufdi esbesaw ham rulu tampavub zitohiz lugke. Tuip no gujewut bo dohuku bojunid arabus sat nic oteeki ma muwek mep be. Wonzevfer mamuvuze ru wo la wenrahoj zi lut sufabup docew he sad utbizdup ne gujboviz vaur bumrapvep ciho.",
+    "bio": "Fo voboab nanuoli pumizni bar sunhibmot teaw fo mupzage mug megdid bipu mocokca suac cen fahjuji moh mavam. Men giz ta febniak pes fip ezjohcik cignise derre evamu in cuvfu. Owzad jupjelgo gauke upkuzzu lufo zeillaz ahago wige soruhre olazoham buacu omzuvi. Avpuma fisepo dasuw uni nog lesagko pih omepogov rar es inibag helcap va luwlebus ujasiap zod fiwidif evezub."
+  },
+  "apiKey": "f7b46d211ff97c94fee4db89b47ee2611fc783bfed9cbe6edb89cf4d517212b9",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
