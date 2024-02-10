@@ -1,0 +1,26 @@
+{
+  "name": "Myrtie Murphy",
+  "age": 18,
+  "address": {
+    "street": "Wugo Avenue",
+    "city": "Ronisi",
+    "state": "WI",
+    "zip": "55173"
+  },
+  "contact": {
+    "phone": "(240) 781-4183",
+    "servicePhone": "800927286"
+  },
+  "birthday": "1963-07-28T13:55:24.537Z",
+  "ip": "241.235.173.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Fiamu va dugti edokar puiveza kew orme onpoafu cuge em soef of hu. Non ecucan zidhassaf volge hevev zujra azoptok ho pezoumu fuipe gicduuv hegcijo hefol no. Di fo ruzaloko lisjaz vuokgap opemo izgoz navur kejcingu ilogelte nom mojgi.",
+    "bio": "Jisuliw jofpijuve dattumti ra ji lowpi jaz vugut refa muem zunegfop binecale umauva jo nebkisec rufvuhoc odozaki. Garazhe ekidaz gohezno cis geravva ju pekkeih zelafoh vuuceis aliwef savinoso idvogoj bibik aguje fulsussin vairjic. Diehpoz wun mol wiheme vi piba lit gogebub gius narvab ca vod osecur gi sircim modis lot. Norija zo al vuuno urga nugaru ideza gokjij le hobkugo og ka caznas."
+  },
+  "apiKey": "085daeb1449e882b62bab42e7c6f0407ef9c0bfb7dd132e03dec32cada6774ed",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
