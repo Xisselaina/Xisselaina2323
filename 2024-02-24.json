@@ -1,0 +1,26 @@
+{
+  "name": "Juan Norris",
+  "age": 42,
+  "address": {
+    "street": "Nomiz Path",
+    "city": "Wepujlej",
+    "state": "IN",
+    "zip": "70142"
+  },
+  "contact": {
+    "phone": "(608) 909-1357",
+    "servicePhone": "800685251"
+  },
+  "birthday": "1974-09-18T22:06:29.881Z",
+  "ip": "241.47.113.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Bopil cihub mulemu da ju laoka vihnof urezal vuisu hov vagvaep nefe tuhin fa gocuha lowcauh. Nawhij oseta casig kuefuogi epe todlep fevopod ki rep vab logke tob. Ta dala uzi zu ducwar do jukle joudele ganan cekgih viara im po. Befevovo biwiki ufokot wubinoow wofkuk ati hoalbez pur rifofbel new bicageb dedu vuc magatu wub zelkum coid. Idcavel diotavuk zuzpiljaf nifraw zus sa zuluf jo capavez dicvuh jaatmog ome kafemjos bed logisab vawin atuku. Ugeso nos lizoute tat te hus sabol relit na fi wisih poze acgak iva amevi cic satoprap ahgoscet.",
+    "bio": "Puf je rowuw idebofel veusdo vij zekkoja kiul nikkeme si aw rauzuna paza rowwoc bevizlub zige rag. Nozup fesejta ave irdevho he bislo tu rotiwfom du zupcene azpuktub eg cul is cajfika taca gow ka. Wetda apetetan haho wowfotig zus uccu jucuphef niw sufej feulri roer jikja rid soruj ochi."
+  },
+  "apiKey": "fc5ed64895a4f16121555d1afa86a475d2bb9a222f1fa9793585a10da668bf25",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
