@@ -1,0 +1,26 @@
+{
+  "name": "Richard Lane",
+  "age": 22,
+  "address": {
+    "street": "Gokef Mill",
+    "city": "Sohhakji",
+    "state": "CT",
+    "zip": "21705"
+  },
+  "contact": {
+    "phone": "(444) 405-9280",
+    "servicePhone": "800328298"
+  },
+  "birthday": "1981-09-11T22:37:46.773Z",
+  "ip": "18.66.91.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Puksa ce subeme ducujof zev dagda anisu uwo rez gijrece bolmoben ibiuv taomuju ugi reces ehzirmow husoib. Te rojo sogvokow vaktudsi voma joatto iri lolafag felahjof dawot avu uframdej od daj vahoor. Tulak bin fobcu wudi tedup egemakum jucwa ha fibom geg dogumuc iwakahizu rig ki ibeba.",
+    "bio": "Humre vo negaha gafjifenu wukis bolhohpok fa erobo omu po vo geus dopoz cul. Misrugwo ru lo cailzun papeghe valujna bazic ed cibufig lijitrej deju bi ci akva. Soglu ov zun ceah badzin wibu mir daolu wu basiro geubifu ki daozri baba. Kir jutufeh luwa soso vem enuubaaw faehivob bim so gawit ebnid nowaro il ubkabris nipa lehvut jojotso."
+  },
+  "apiKey": "092cb0f164a1042752b811c4ed3bf443b9268b0008e88e0da9545eacb06ae86a",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
