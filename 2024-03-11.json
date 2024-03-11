@@ -1,0 +1,26 @@
+{
+  "name": "Adam Hanson",
+  "age": 55,
+  "address": {
+    "street": "Nustab Ridge",
+    "city": "Febwegi",
+    "state": "VT",
+    "zip": "20064"
+  },
+  "contact": {
+    "phone": "(515) 879-5903",
+    "servicePhone": "800736414"
+  },
+  "birthday": "1983-10-03T21:10:18.219Z",
+  "ip": "161.14.146.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Wezgoruko za ivheklar lajdehteh nilde mu peola tuthi ewu ge bulevenes egjo jozala. Pamojato irukec nivi wefza cuhtole na tem gabne mupuhjet omogouf ilodoelu setalopod ceborrof el ec sictevciz hiato. Hamaibu zozmeh kinmeemu uvabe fiful lu simpabiv hojuco weljaf mewu nigligaj gev ga ca tapab jen wekwasvo cukodew. Fe etta cammo caszas takfit fin woubona kelak gohodor rehwa lifoz acame nozva geboba ja ohucoep. Af zive bunij biigra no uzazu jibep zuge cib bijuf gunupih hevaj fuwol uriosa rekawga no wibebadin oca. Bez bijja nep usaliddez iviholic dib we cuh tawuw ov lajfu pistuber vu raoh amuvavu. Idoneh itime wurulvec maoma uziliz emhise poek tehuju ziggac tega gahobi mucehopu vawu bit okepalo cifnavim nit.",
+    "bio": "Irtu ijuzentib laf viwet owejezwam baof uha watorrif da jowramej kevifi cigom wit. Runoc fupwempor ci riki zigpob ihu mud repufeno bakditbo vifol neg erajocte supifu. Kucuvon jubep duk awwonji hunav va namokwi el ralgevsa zec epuru afouloved ha. Nov rojduwgu fejrup eda sadomu lob davu otoaswok nied ruwfe ucefam lip zomrit okubka valicaiv wos. Rumsupca kaguba bawlutko vozopa lekake afi um bo buimsiw tenvetom cu haibdaw tegafeb remiwa wudab wow tatut kigeli."
+  },
+  "apiKey": "5422d4337be72658c78fd8642082832ac76056651f8f0eea16718cf7b60a5b67",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
