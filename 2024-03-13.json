@@ -1,0 +1,26 @@
+{
+  "name": "Fred Flowers",
+  "age": 18,
+  "address": {
+    "street": "Mukha Heights",
+    "city": "Zohesca",
+    "state": "NH",
+    "zip": "88959"
+  },
+  "contact": {
+    "phone": "(223) 479-2559",
+    "servicePhone": "800846611"
+  },
+  "birthday": "1986-05-12T03:17:35.816Z",
+  "ip": "27.55.201.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Loj ilwumot jo fahuru wi vuvci up ogetuvli cew vic pias damet jog vuckakhe rolholak kos mevga. Bo cedso zifaktu zaoz ca eme nabociw bocsas jeos sejamnas pogucir mitwub kicmuh. Or jez witehgig kaji hufolo birma rolo uzmuh lunog cawseehe melbev hewdu bi mas.",
+    "bio": "Wos salezupa urwes keh cobrig fiz seog ce goz pa isejasza te ta epocamebi regpin. Suzusa ov dohufop ti nepakhu ubepo bun eworer duasbi wi go osofocho povtojov vuw mindak. Kiuzte no vobgadla jareldo teh her sonapiw vagkudbog aneadebe gudi murhu rikgekat do hidap ozuca ne zibezho. Ug ke wif apku up juldak wavonre tundi rev mit iti rupubgah setur cappo niluvuasi bebe iwuumnu ovtuvrog. Erosimi hek dad gijsu wen sucvu kuk vuwid nobim va owovokez jitcavwa ucosuul menbatnun hibehmi gif ribi ahimo. Ug omzu wacucaz osomahsiw ifuzuku loswiov vo mulu hipelaha riw razus vam wemefci betan hefnec. Ga fetpocve urru calbarde veh wapofe jafmodeg ad nen wuwoggu odimura kuole decket cideso siru wemur fosbum ko."
+  },
+  "apiKey": "94449850d01506944c2bca462ed6d18d0185d5d24c56b5ccc455d6caae2c48e0",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
