@@ -1,0 +1,26 @@
+{
+  "name": "Isaiah Keller",
+  "age": 65,
+  "address": {
+    "street": "Sokpez Lane",
+    "city": "Erifiwe",
+    "state": "NJ",
+    "zip": "95214"
+  },
+  "contact": {
+    "phone": "(936) 678-9186",
+    "servicePhone": "800273899"
+  },
+  "birthday": "1987-05-08T05:41:26.545Z",
+  "ip": "232.123.63.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Nel umciraw em lepot vegjog def fo ukzadga wip vapcauf urkotu fuj zaswek. El da icu dafti cik gucemej lafovugab rivbobba sez sucporze ezu ju wehepu medbiz. Nofo temojhec va gibzi kok kimtovaw kuwko nignehi luvap aljiopo cugi ef tusfedgon moceg.",
+    "bio": "Nezoh turoc gotgawi god oreda zekoc nomapi zigba ce wavusuc anowiv isaru opuizmiw kaflu seom caho. Ohvewo paw os nivve nubdor gu otsa du cire fuelogo wozap vorow re vulso. Mok mep jacba hivpum norane sitfe wab bef zaf nedugjo tuznemsuw foncijju homgahzug zap hom. Hadji sum ge oce kuf ak vesav etvavac emazebla zonmuwni sefec oce kok gaesi dopwi gu."
+  },
+  "apiKey": "324510247a26c6162d50bcd3d8ebd2103db2fd5157338dbd9ba7afb6b3575015",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
