@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Banks",
+  "age": 40,
+  "address": {
+    "street": "Jarbu View",
+    "city": "Wamawi",
+    "state": "NE",
+    "zip": "33655"
+  },
+  "contact": {
+    "phone": "(845) 701-4557",
+    "servicePhone": "800565128"
+  },
+  "birthday": "1988-10-16T15:48:59.320Z",
+  "ip": "33.70.106.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Ariusi vaafejul hazvukita daki sab acmo dawa vavdeffe zisono tiepofip vojiido sehnazut nabdelle teje uwipo iriemavu. Wuvike fi cipuflo put zaika isoci tuvofobo jiwnurra do ujipuade lolte dupez cosbow mo mivufafo gil tabezde. Ub fo japsoulo oci ha nothalbeg voc du nervil mewzu beok calo muvru mipov ahohevu hebuhog. Gul veete fe ci ufasi tesges ojiora supavco ewwif migoruvuw uwjuh fet perkazim ib. Cesolik ehahuta cakteoje tuvemed jiin zid emucacli haar viv puvumwod opjutkuv gij orlo jiurbo lezboja izuefeuwi.",
+    "bio": "Cihte zepda dunuev vebam zavmuzkod ivubaadi vumonku kobkup nihpev cirbetvec ra buzan copem zigi fidvo kijad binaprav tat. Iwu tovumi ji teg dohicag faw kahoju ahibop jokeime nevnu voz asepinuj huuci ah logihu alnopcu zis. Oz zeine pek pacow oflo to uboovicur uhtiw acavop oculu wuzjaf jesko wicedjol ewijurali loc."
+  },
+  "apiKey": "9a39385026b885062430f84ede9fda2d18ad21248394557c3cb397c808aa83a7",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
