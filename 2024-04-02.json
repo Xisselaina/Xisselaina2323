@@ -1,0 +1,26 @@
+{
+  "name": "Marc Peterson",
+  "age": 56,
+  "address": {
+    "street": "Habjig Pass",
+    "city": "Zozetosuw",
+    "state": "ME",
+    "zip": "92808"
+  },
+  "contact": {
+    "phone": "(670) 558-8522",
+    "servicePhone": "800532153"
+  },
+  "birthday": "1966-10-27T16:11:20.444Z",
+  "ip": "168.106.221.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri metanade kidhoeb ba vos tik sigabdu lijdo kan hecne pume movo usuob iwe ha. Hawu rezmur di zi virnuzevu tijwir va bizvibe lalromi cefiko jabor zigej. Keb vulu uldow rum va tidifro lalaza wezopji nufolsa ce ganir odupal emivzar cugute fu esi wuuhi.",
+    "bio": "Boro viuka gakuz pedzume wuttac ziwcawzav itaimuc tu punpa judikade muviw pofusvis buemumob izibuwe. Tati hazes um foglok duwisu keddal gati vaz toh rowca gukra anolu tamku odjeomo gakrobek. Ti aja kijemir zu iskikig kav kos ciw tizazfaw rok ketcu daoj. Vonsu ruiboav ci gufoddet ud ir gesjac jetovawul madrahal fojdaf lel dewhaulu ederure gu bova."
+  },
+  "apiKey": "2ac98b0bd538b352ef7282534ca0771075700c1c9795e1541756947c425782aa",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
